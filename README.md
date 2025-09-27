@@ -28,7 +28,9 @@ VAT (Tax) analysis across cities and customer types
 amazon-sales-analysis/
 │
 ├── amazon sales dashboard.pbix   # Power BI dashboard file
+
 ├── sales_analysis.sql            # SQL scripts (DB creation, cleaning, queries)
+
 └── README.md                     # Project documentation
 
 🛠️  **Tools & Technologies**
